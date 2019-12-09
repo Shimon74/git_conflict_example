@@ -2,5 +2,7 @@
 ```{r}
 numbers <- c(i,2,3,4,5)
 
+prod <- product(numbers)
+
 ```
 
