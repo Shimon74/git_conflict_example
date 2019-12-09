@@ -1,8 +1,8 @@
 
 ```{r}
 numbers <- c(i,2,3,4,5)
-
 sum <- sum(numbers)
+prod <- product(numbers)
 
 ```
 
